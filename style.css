@@ -1,0 +1,28 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin: 25px auto;
+  text-align: center;
+  background-color: #f8e8a6;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+p {
+  margin-top: 20px;
+}
+
+img {
+  margin-top: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: green;
+}
+
+.mail {
+  color: blue;
+}
